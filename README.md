@@ -2,17 +2,12 @@
 
 <!--
 **arkatvijay0/arkatvijay0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...# 💫 About Me:
-🧠 I’m currently learning:<br><br>Python for Data Science<br><br>SQL, Pandas, NumPy<br><br>Machine Learning (beginner level)<br><br>💡 I’m currently working on:<br><br>Mini projects using Python<br><br>Student Performance Prediction (ML project)<br><br>🤝 I’m looking to collaborate on:<br><br>Beginner-friendly data science projects<br><br>Python automation scripts<br><br>🤔 I’m looking for help with:<br><br>Data Science roadmap & real-world project experience<br><br>💬 Ask me about:<br><br>Python basics<br><br>My journey into Data Science<br><br>⚡ Fun fact:<br><br>I enjoy turning data into meaningful stories and I love learning step-by-step every day!
+🧠 I’m currently learning:<br><br>Python for Data Science<br><br>SQL, Pandas, NumPy<br><br>Machine Learning (beginner level)<br><br>
+💡 I’m currently working on:<br><br>Mini projects using Python<br><br>Student Performance Prediction (ML project)<br><br>
+🤝 I’m looking to collaborate on:<br><br>Beginner-friendly data science projects<br><br>Python automation scripts<br><br>
+🤔 I’m looking for help with:<br><br>Data Science roadmap & real-world project experience<br><br>
+💬 Ask me about:<br><br>Python basics<br><br>My journey into Data Science<br><br>
+⚡ Fun fact:<br><br>I enjoy turning data into meaningful stories and I love learning step-by-step every day!
 
 
 ## 🌐 Socials:
@@ -28,6 +23,4 @@ Here are some ideas to get you started:
 ---
 [![](https://visitcount.itsvg.in/api?id= arkatvijay0&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
