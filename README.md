@@ -1,13 +1,5 @@
-## Hi there 👋
-
-<!--
-**arkatvijay0/arkatvijay0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-🧠 I’m currently learning:<br><br>Python for Data Science<br><br>SQL, Pandas, NumPy<br><br>Machine Learning (beginner level)<br><br>
-💡 I’m currently working on:<br><br>Mini projects using Python<br><br>Student Performance Prediction (ML project)<br><br>
-🤝 I’m looking to collaborate on:<br><br>Beginner-friendly data science projects<br><br>Python automation scripts<br><br>
-🤔 I’m looking for help with:<br><br>Data Science roadmap & real-world project experience<br><br>
-💬 Ask me about:<br><br>Python basics<br><br>My journey into Data Science<br><br>
-⚡ Fun fact:<br><br>I enjoy turning data into meaningful stories and I love learning step-by-step every day!
+# 💫 About Me:
+🧠 I’m currently learning:<br><br>Python for Data Science<br><br>SQL, Pandas, NumPy<br><br>Machine Learning (beginner level)<br><br>💡 I’m currently working on:<br><br>Mini projects using Python<br><br>Student Performance Prediction (ML project)<br><br>🤝 I’m looking to collaborate on:<br><br>Beginner-friendly data science projects<br><br>Python automation scripts<br><br>🤔 I’m looking for help with:<br><br>Data Science roadmap & real-world project experience<br><br>💬 Ask me about:<br><br>Python basics<br><br>My journey into Data Science<br><br>⚡ Fun fact:<br><br>I enjoy turning data into meaningful stories and I love learning step-by-step every day!
 
 
 ## 🌐 Socials:
