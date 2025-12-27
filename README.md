@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧠 I’m currently learning:<br><br>Python for Data Science<br><br>SQL, Pandas, NumPy<br><br>Machine Learning (beginner level)<br><br>💡 I’m currently working on:<br><br>Mini projects using Python<br><br>Student Performance Prediction (ML project)<br><br>🤝 I’m looking to collaborate on:<br><br>Beginner-friendly data science projects<br><br>Python automation scripts<br><br>🤔 I’m looking for help with:<br><br>Data Science roadmap & real-world project experience<br><br>💬 Ask me about:<br><br>Python basics<br><br>My journey into Data Science<br><br>⚡ Fun fact:<br><br>I enjoy turning data into meaningful stories and I love learning step-by-step every day!
+👋 Hi, I’m Vijay, currently pursuing my M.Tech in Data Science. I am passionate about learning how data and AI can solve real-world problems, and I’m gradually building my skills in Python, data analysis, and machine learning. I enjoy working on small projects that help me apply what I learn, and I’m currently exploring topics like student performance prediction and Python automation. I’m always open to collaborating on beginner-friendly data projects and learning from others in the tech community. Outside academics, I love continuous learning and enjoy finding simple ways to explain complex ideas.
 
 
 ## 🌐 Socials:
