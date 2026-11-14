@@ -1,12 +1,171 @@
-# 💫 About Me:
-👋 Hi, I’m Vijay, currently pursuing my M.Tech in Data Science. I am passionate about learning how data and AI can solve real-world problems, and I’m gradually building my skills in Python, data analysis, and machine learning. I enjoy working on small projects that help me apply what I learn, and I’m currently exploring topics like student performance prediction and Python automation. I’m always open to collaborating on beginner-friendly data projects and learning from others in the tech community. Outside academics, I love continuous learning and enjoy finding simple ways to explain complex ideas.
+# Hi, I'm Vijay Kumar AG 👋
 
+### M.Tech Data Science | Data Analyst | AI & Machine Learning Enthusiast
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/the_arkatvijay_46) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_arkatvijay_46) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arkatvijay0@gmail.com) 
+I am pursuing my **M.Tech in Data Science at Presidency University, Bengaluru**, with an interest in Data Science, Data Analytics, Machine Learning, and Artificial Intelligence.
 
-# 💻 Tech Stack:
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+I enjoy working with data, building analytical solutions, developing machine learning applications, and exploring Generative AI to solve practical problems.
 
+My focus is on combining programming, statistical analysis, data visualization, and intelligent systems to transform raw data into meaningful insights.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 👨‍💻 About Me
+
+- 🎓 M.Tech in Data Science – Presidency University, Bengaluru.
+- 📊 Interested in Data Science and Data Analytics.
+- 🐍 Working with Python, SQL, Pandas, and NumPy.
+- 📈 Experience with data analysis and Power BI dashboards.
+- 🤖 Exploring Machine Learning, Generative AI, and Large Language Models.
+- 🔬 Developing a Self-Validating EDA Agent as a research-oriented project.
+- 🌱 Continuously learning and building practical projects.
+
+---
+
+## 🚀 Featured Projects
+
+### 1. Self-Validating EDA Agent
+
+**A Self-Validating Generative AI Framework for Reliable Automated Exploratory Data Analysis and Evidence-Grounded Insight Generation**
+
+An AI-powered framework designed to automate exploratory data analysis using natural-language queries while incorporating independent validation and self-correction mechanisms.
+
+**Key Features**
+- Natural-language-based data analysis.
+- Automated data profiling and EDA planning.
+- Python code generation and execution.
+- Independent code and result validation.
+- Statistical validation.
+- Insight validation and evidence mapping.
+- Self-correction and retry mechanism.
+- Isolation Forest-based anomaly detection.
+- Optional Ollama-based insight rewriting.
+- Evidence-based recommendation generation.
+
+**Technologies:** Python, Pandas, NumPy, Scikit-learn, Ollama, Isolation Forest, Generative AI.
+
+🔗 [View Project Repository](https://github.com/arkatvijay0/Self_Validating_Data_Agent)
+
+---
+
+### 2. Customer Behavior Analysis
+
+A data analytics project that explores customer shopping patterns, purchasing behavior, customer demographics, and product trends using Python, PostgreSQL, and Power BI.
+
+**Key Features**
+- Data cleaning and preprocessing using Python.
+- Exploratory Data Analysis using Pandas.
+- Feature engineering for customer age groups and purchase frequency.
+- PostgreSQL queries for business analysis.
+- Customer segmentation based on previous purchases.
+- Revenue and purchasing pattern analysis.
+- Discount and subscription analysis.
+- Power BI dashboard for data visualization.
+
+**Technologies:** Python, Pandas, NumPy, PostgreSQL, SQL, Power BI, Jupyter Notebook.
+
+🔗 [View Project Repository](https://github.com/arkatvijay0/customer_behavior_analysis)
+
+---
+
+### 3. Student Performance Prediction
+
+A machine learning project exploring student-related data to identify patterns and predict academic performance.
+
+**Areas of Work**
+- Data preprocessing.
+- Exploratory Data Analysis.
+- Feature analysis.
+- Predictive modeling.
+
+**Technologies:** Python, Pandas, Scikit-learn.
+
+---
+
+### 4. Commodity Market Analysis
+
+A Python-based analytical project exploring financial and commodity market data.
+
+**Areas of Work**
+- Financial data retrieval using yfinance.
+- Data preprocessing.
+- Market trend analysis.
+- Data exploration and visualization.
+
+**Technologies:** Python, Pandas, yfinance.
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming and Data Analysis
+- Python
+- SQL
+- Pandas
+- NumPy
+- R (Foundational)
+
+### Data Visualization and Business Intelligence
+- Microsoft Excel
+- Power BI
+- Matplotlib
+- Plotly
+
+### Machine Learning and Artificial Intelligence
+- Scikit-learn
+- Exploratory Data Analysis
+- Predictive Modeling
+- Isolation Forest
+- Generative AI
+- Large Language Models (Ollama)
+- Computer Vision (Research Interest)
+
+### Tools and Platforms
+- Jupyter Notebook
+- Google Colab
+- VS Code
+- MySQL Workbench
+- PostgreSQL
+- Anaconda
+- Git and GitHub
+
+---
+
+## 🔬 Research Interests
+
+- Reliable and Automated Exploratory Data Analysis.
+- Generative AI and Large Language Models.
+- Machine Learning and Predictive Analytics.
+- Computer Vision and Face Anti-Spoofing.
+- Vision Transformers and Deep Learning.
+- Explainable and Evidence-Grounded AI.
+- Statistical Validation and Anomaly Detection.
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Machine Learning.
+- Deep Learning.
+- Computer Vision.
+- Generative AI applications.
+- Research methodology and scientific writing.
+
+---
+
+## 🌐 Connect With Me
+
+- 📧 Email: [arkatvijay0@gmail.com](mailto:arkatvijay0@gmail.com)
+- 💻 GitHub: [@arkatvijay0](https://github.com/arkatvijay0)
+- 📸 Instagram: [@the_arkatvijay_46](https://instagram.com/the_arkatvijay_46)
+- 📘 Facebook: [@the_arkatvijay_46](https://facebook.com/the_arkatvijay_46)
+
+---
+
+## 🎯 Career Objective
+
+To build reliable, intelligent, and data-driven solutions by applying Data Science, Machine Learning, and Artificial Intelligence to real-world problems.
+
+**"Turning data into insights and ideas into intelligent solutions."**
+
+⭐ Thanks for visiting my GitHub profile!
