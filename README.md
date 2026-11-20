@@ -158,8 +158,7 @@ A Python-based analytical project exploring financial and commodity market data.
 - 📧 Email: [arkatvijay0@gmail.com](mailto:arkatvijay0@gmail.com)
 - 💻 GitHub: [@arkatvijay0](https://github.com/arkatvijay0)
 - 📸 Instagram: [@the_arkatvijay_46](https://instagram.com/the_arkatvijay_46)
-- 📘 Facebook: [@the_arkatvijay_46](https://facebook.com/the_arkatvijay_46)
-
+- 📘 Facebook: [@arkat.vijay](https://www.facebook.com/arkat.vijay)
 ---
 
 ## 🎯 Career Objective
