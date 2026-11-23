@@ -1,4 +1,4 @@
-# Hi, I'm Vijay Kur AG 👋
+# Hi, I'm Vijay Kumar AG 👋
 
 ### M.Tech Data Science | Data Analyst | AI & Machine Learning Enthusiast
 
