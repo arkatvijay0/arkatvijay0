@@ -26,7 +26,7 @@ My focus is on combining programming, statistical analysis, data visualization, 
 
 ### 1. Self-Validating EDA Agent
 
-**A Self-Validating Generative AI Framework for Reliable Automated Exploratory Data Analysis and Evidence-Grounded Insight Generation**
+**VeVaEDA | A SELF-VALIDATING AI AGENT FOR AUTOMATED EXPLORATORY DATA ANALYSIS AND EVIDENCE-BASED DECISION INSIGHTS**
 
 An AI-powered framework designed to automate exploratory data analysis using natural-language queries while incorporating independent validation and self-correction mechanisms.
 
@@ -45,6 +45,7 @@ An AI-powered framework designed to automate exploratory data analysis using nat
 **Technologies:** Python, Pandas, NumPy, Scikit-learn, Ollama, Isolation Forest, Generative AI.
 
 🔗 [View Project Repository](https://github.com/arkatvijay0/Self_Validating_Data_Agent)
+🔗 [View Project Web_Application](https://self-validating-eda-agent.streamlit.app/)
 
 ---
 
